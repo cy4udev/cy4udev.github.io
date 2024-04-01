@@ -1,0 +1,30 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>cy4udev</title>
+<description>cy4udev feed</description>
+<link>https://cy4u.dev</link>
+<generator>Feed Creator</generator>
+<atom:link rel="self" href="https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fcy4u.dev%2Fportfolio&max=5&order=document&guid=0"/>
+<atom:link rel="related" title="Edit feed with Feed Creator" href="https://createfeed.fivefilters.org/index.php?url=https%3A%2F%2Fcy4u.dev%2Fportfolio&max=5&order=document&guid=0"/>
+
+<item>
+<title>Facebook Unofficial API<title>
+<link>https://cy4u.dev/Facebook-Unofficial-API/</link>
+<description>This library is written in TypeScript for Node.JS and allows you to perform various operations using the Facebook API.<description>
+</item>
+
+<item>
+<title>Twitter Unofficial API<title>
+<link>https://cy4u.dev/Twitter-Unofficial-API/</link>
+<description>The Twitter API allows users to log in quickly and securely with their Twitter account. In just a few simple steps, users can access their accounts.<description>
+</item>
+
+<item>
+<title>Trendyol Unofficial API<title>
+<link>https://cy4u.dev/Trendyol-Unofficial-API/</link>
+<description>Our Trendyol API aims to encapsulate the intricacies of interacting with Trendyol, offering a simplified interface for developers to perform various actions seamlessly.<description>
+</item>
+
+
+</channel>
+</rss>
