@@ -18,10 +18,10 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 	<item>
-		<title>Twitter Unofficial API</title>
+		<title>Facebook Unofficial API</title>
 		<link>https://cy4u.dev/Facebook-Unofficial-API/</link>
 		
-		<dc:creator><![CDATA[Aakash Chakravarthy]]></dc:creator>
+		<dc:creator><![CDATA[cy4udev]]></dc:creator>
 		<pubDate>Wed, 07 Feb 2024 19:55:31 +0000</pubDate>
 		<category><![CDATA[Social Media]]></category>
 		<category><![CDATA[Api]]></category>
@@ -32,6 +32,39 @@
 <content:encoded>This library is written in TypeScript for Node.JS and allows you to perform various operations using the Facebook API.</content:encoded>
 					
 		<media:content medium="image" url="https://cy4u.dev/assets/images/portfolio/facebook-unofficial-api.jpg" />
+		</item>
+
+		<item>
+		<title>Twitter Unofficial API</title>
+		<link>https://cy4u.dev/Twitter-Unofficial-API/</link>
+		<dc:creator><![CDATA[cy4udev]]></dc:creator>
+		<pubDate>Wed, 07 Feb 2024 19:55:31 +0000</pubDate>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Api]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[TypeScript]]></category>
+		<guid isPermaLink="false">https://cy4u.dev/Twitter-Unofficial-API/</guid>
+		<description>The Twitter API allows users to log in quickly and securely with their Twitter account. In just a few simple steps, users can access their accounts.</description>
+<content:encoded>The Twitter API allows users to log in quickly and securely with their Twitter account. In just a few simple steps, users can access their accounts.</content:encoded>
+					
+		<media:content medium="image" url="https://cy4u.dev/assets/images/portfolio/twitter-unofficial-api.jpg" />
+		</item>
+
+
+		<item>
+		<title>Trendyol Unofficial API</title>
+		<link>https://cy4u.dev/Trendyol-Unofficial-API/</link>
+		<dc:creator><![CDATA[cy4udev]]></dc:creator>
+		<pubDate>Wed, 07 Feb 2024 19:55:31 +0000</pubDate>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Api]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[TypeScript]]></category>
+		<guid isPermaLink="false">https://cy4u.dev/Trendyol-Unofficial-API/</guid>
+		<description>Our Trendyol API aims to encapsulate the intricacies of interacting with Trendyol, offering a simplified interface for developers to perform various actions seamlessly.</description>
+<content:encoded>Our Trendyol API aims to encapsulate the intricacies of interacting with Trendyol, offering a simplified interface for developers to perform various actions seamlessly.</content:encoded>
+					
+		<media:content medium="image" url="https://cy4u.dev/assets/images/portfolio/trendyol-unofficial-api.jpg" />
 		</item>
 	
 	</channel>
