@@ -1,30 +1,38 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/">
+
 <channel>
-<title>cy4udev</title>
-<description>cy4udev feed</description>
-<link>https://cy4u.dev</link>
-<generator>Feed Creator</generator>
-<atom:link rel="self" href="https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fcy4u.dev%2Fportfolio&max=5&order=document&guid=0"/>
-<atom:link rel="related" title="Edit feed with Feed Creator" href="https://createfeed.fivefilters.org/index.php?url=https%3A%2F%2Fcy4u.dev%2Fportfolio&max=5&order=document&guid=0"/>
-
-<item>
-<title>Facebook Unofficial API<title>
-<link>https://cy4u.dev/Facebook-Unofficial-API/</link>
-<description>This library is written in TypeScript for Node.JS and allows you to perform various operations using the Facebook API.<description>
-</item>
-
-<item>
-<title>Twitter Unofficial API<title>
-<link>https://cy4u.dev/Twitter-Unofficial-API/</link>
-<description>The Twitter API allows users to log in quickly and securely with their Twitter account. In just a few simple steps, users can access their accounts.<description>
-</item>
-
-<item>
-<title>Trendyol Unofficial API<title>
-<link>https://cy4u.dev/Trendyol-Unofficial-API/</link>
-<description>Our Trendyol API aims to encapsulate the intricacies of interacting with Trendyol, offering a simplified interface for developers to perform various actions seamlessly.<description>
-</item>
-
-
-</channel>
+	<title>cy4u.dev</title>
+	<atom:link href="https://cy4u.dev/feed.xml" rel="self" type="application/rss+xml" />
+	<link>https://cy4u.dev/</link>
+	<description>Me, web &#38; WordPress</description>
+	<lastBuildDate>Wed, 01 Apr 2024 13:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>Twitter Unofficial API</title>
+		<link>https://cy4u.dev/Facebook-Unofficial-API/</link>
+		
+		<dc:creator><![CDATA[Aakash Chakravarthy]]></dc:creator>
+		<pubDate>Wed, 07 Feb 2024 19:55:31 +0000</pubDate>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Api]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[TypeScript]]></category>
+		<guid isPermaLink="false">https://cy4u.dev/Facebook-Unofficial-API/</guid>
+		<description>This library is written in TypeScript for Node.JS and allows you to perform various operations using the Facebook API.</description>
+<content:encoded>This library is written in TypeScript for Node.JS and allows you to perform various operations using the Facebook API.</content:encoded>
+					
+		<media:content medium="image" url="https://cy4u.dev/assets/images/portfolio/facebook-unofficial-api.jpg" />
+		</item>
+	
+	</channel>
 </rss>
