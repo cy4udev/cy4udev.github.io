@@ -9,20 +9,20 @@
 
 <channel>
 	<title>cy4u.dev</title>
-	<atom:link href="https://cy4u.dev/feed.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cy4u.dev/feedtr.xml" rel="self" type="application/rss+xml" />
 	<link>https://cy4u.dev/</link>
-	<description>Me, web &#38; WordPress</description>
-	<lastBuildDate>Wed, 01 Apr 2024 13:20:31 +0000</lastBuildDate>
-	<language>en-US</language>
+	<description>We are architects of digital transformation</description>
+	<lastBuildDate>Fri, 03 May 2024 17:58:31 +0000</lastBuildDate>
+	<language>tr-TR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://cy4u.dev</generator>
 	<item>
 		<title>Facebook Unofficial API</title>
-		<link>https://cy4u.dev/Facebook-Unofficial-API/tr.html</link>
+		<link>https://cy4u.dev/Facebook-Unofficial-API/tr</link>
 		
 		<dc:creator><![CDATA[cy4udev]]></dc:creator>
-		<pubDate>Wed, 07 Feb 2024 19:55:31 +0000</pubDate>
+		<pubDate>Fri, 03 May 2024 17:58:31 +0000</pubDate>
 		<category><![CDATA[Social Media]]></category>
 		<category><![CDATA[Api]]></category>
 		<category><![CDATA[Javascript]]></category>
@@ -36,9 +36,9 @@
 
 		<item>
 		<title>Twitter Unofficial API</title>
-		<link>https://cy4u.dev/Twitter-Unofficial-API/tr.html</link>
+		<link>https://cy4u.dev/Twitter-Unofficial-API/tr</link>
 		<dc:creator><![CDATA[cy4udev]]></dc:creator>
-		<pubDate>Wed, 07 Feb 2024 19:55:31 +0000</pubDate>
+		<pubDate>Fri, 03 May 2024 17:58:31 +0000</pubDate>
 		<category><![CDATA[Social Media]]></category>
 		<category><![CDATA[Api]]></category>
 		<category><![CDATA[Javascript]]></category>
@@ -53,9 +53,9 @@
 
 		<item>
 		<title>Trendyol Unofficial API</title>
-		<link>https://cy4u.dev/Trendyol-Unofficial-API/tr.html</link>
+		<link>https://cy4u.dev/Trendyol-Unofficial-API/tr</link>
 		<dc:creator><![CDATA[cy4udev]]></dc:creator>
-		<pubDate>Wed, 07 Feb 2024 19:55:31 +0000</pubDate>
+		<pubDate>Fri, 03 May 2024 17:58:31 +0000</pubDate>
 		<category><![CDATA[Social Media]]></category>
 		<category><![CDATA[Api]]></category>
 		<category><![CDATA[Javascript]]></category>
@@ -65,6 +65,24 @@
 <content:encoded>Trendyol API‘miz, Trendyol ile etkileşime girmenin karmaşıklıklarını kapsüllemeyi ve geliştiricilerin çeşitli eylemleri sorunsuz bir şekilde gerçekleştirmeleri için basitleştirilmiş bir arayüz sunmayı amaçlamaktadır.</content:encoded>
 					
 		<media:content medium="image" url="https://cy4u.dev/assets/images/portfolio/trendyol-unofficial-api.jpg" />
+		</item>
+
+
+				<item>
+		<title>Twitch Chat Bot</title>
+		<link>https://cy4u.dev/Twitch-Chat-Bot/tr</link>
+		
+		<dc:creator><![CDATA[cy4udev]]></dc:creator>
+		<pubDate>Fri, 03 May 2024 17:58:31 +0000</pubDate>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Api]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[TypeScript]]></category>
+		<guid isPermaLink="false">https://cy4u.dev/Twitch-Chat-Bot/tr</guid>
+		<description>Karşınızda Twitch Sohbet Bot uygulamamız! Bu bot ile, canlı yayınlar sırasında hesaplarınızdan rastgele yorumlar göndererek izleyicilerinizle sorunsuz bir şekilde etkileşim kurabilirsiniz. Etkileşimi artırın ve izleyicilerinizin zahmetsizce eğlenmesini sağlayın.</description>
+<content:encoded>Karşınızda Twitch Sohbet Bot uygulamamız! Bu bot ile, canlı yayınlar sırasında hesaplarınızdan rastgele yorumlar göndererek izleyicilerinizle sorunsuz bir şekilde etkileşim kurabilirsiniz. Etkileşimi artırın ve izleyicilerinizin zahmetsizce eğlenmesini sağlayın.</content:encoded>
+					
+		<media:content medium="image" url="https://cy4u.dev/assets/images/portfolio/twitch-chat-bot.png" />
 		</item>
 	
 	</channel>
