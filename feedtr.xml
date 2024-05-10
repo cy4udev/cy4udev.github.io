@@ -9,17 +9,17 @@
 
 <channel>
 	<title>cy4u.dev</title>
-	<atom:link href="https://cy4u.dev/feedtr.xml" rel="self" type="application/rss+xml" />
-	<link>https://cy4u.dev/</link>
+	<atom:link href="https://www.cy4u.dev/feedtr.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.cy4u.dev/</link>
 	<description>Biz dijital dönüşümün mimarlarıyız.</description>
 	<lastBuildDate>Fri, 03 May 2024 17:58:31 +0000</lastBuildDate>
 	<language>tr-TR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://cy4u.dev</generator>
+	<generator>https://www.cy4u.dev</generator>
 	<item>
 		<title>Facebook Unofficial API</title>
-		<link>https://cy4u.dev/Facebook-Unofficial-API/tr</link>
+		<link>https://www.cy4u.dev/Facebook-Unofficial-API/tr</link>
 		
 		<dc:creator><![CDATA[cy4udev]]></dc:creator>
 		<pubDate>Fri, 03 May 2024 17:58:31 +0000</pubDate>
@@ -27,50 +27,50 @@
 		<category><![CDATA[Api]]></category>
 		<category><![CDATA[Javascript]]></category>
 		<category><![CDATA[TypeScript]]></category>
-		<guid isPermaLink="false">https://cy4u.dev/Facebook-Unofficial-API/</guid>
+		<guid isPermaLink="false">https://www.cy4u.dev/Facebook-Unofficial-API/</guid>
 		<description>Bu kütüphane, TypeScript ile Node.JS için yazılmıştır ve Facebook API‘sini kullanarak çeşitli işlemleri gerçekleştirmenize olanak sağlar.</description>
 <content:encoded>Bu kütüphane, TypeScript ile Node.JS için yazılmıştır ve Facebook API‘sini kullanarak çeşitli işlemleri gerçekleştirmenize olanak sağlar.</content:encoded>
 					
-		<media:content medium="image" url="https://cy4u.dev/assets/images/portfolio/facebook-unofficial-api.jpg" />
+		<media:content medium="image" url="https://www.cy4u.dev/assets/images/portfolio/facebook-unofficial-api.jpg" />
 		</item>
 
 		<item>
 		<title>Twitter Unofficial API</title>
-		<link>https://cy4u.dev/Twitter-Unofficial-API/tr</link>
+		<link>https://www.cy4u.dev/Twitter-Unofficial-API/tr</link>
 		<dc:creator><![CDATA[cy4udev]]></dc:creator>
 		<pubDate>Fri, 03 May 2024 17:58:31 +0000</pubDate>
 		<category><![CDATA[Social Media]]></category>
 		<category><![CDATA[Api]]></category>
 		<category><![CDATA[Javascript]]></category>
 		<category><![CDATA[TypeScript]]></category>
-		<guid isPermaLink="false">https://cy4u.dev/Twitter-Unofficial-API/</guid>
+		<guid isPermaLink="false">https://www.cy4u.dev/Twitter-Unofficial-API/</guid>
 		<description>Twitter API, kullanıcıların Twitter hesaplarıyla hızlı ve güvenli bir şekilde giriş yapmalarını sağlar. Sadece birkaç basit adımda, kullanıcıların hesaplarına erişim sağlanır.</description>
 <content:encoded>Twitter API, kullanıcıların Twitter hesaplarıyla hızlı ve güvenli bir şekilde giriş yapmalarını sağlar. Sadece birkaç basit adımda, kullanıcıların hesaplarına erişim sağlanır.</content:encoded>
 					
-		<media:content medium="image" url="https://cy4u.dev/assets/images/portfolio/twitter-unofficial-api.jpg" />
+		<media:content medium="image" url="https://www.cy4u.dev/assets/images/portfolio/twitter-unofficial-api.jpg" />
 		</item>
 
 
 		<item>
 		<title>Trendyol Unofficial API</title>
-		<link>https://cy4u.dev/Trendyol-Unofficial-API/tr</link>
+		<link>https://www.cy4u.dev/Trendyol-Unofficial-API/tr</link>
 		<dc:creator><![CDATA[cy4udev]]></dc:creator>
 		<pubDate>Fri, 03 May 2024 17:58:31 +0000</pubDate>
 		<category><![CDATA[Social Media]]></category>
 		<category><![CDATA[Api]]></category>
 		<category><![CDATA[Javascript]]></category>
 		<category><![CDATA[TypeScript]]></category>
-		<guid isPermaLink="false">https://cy4u.dev/Trendyol-Unofficial-API/</guid>
+		<guid isPermaLink="false">https://www.cy4u.dev/Trendyol-Unofficial-API/</guid>
 		<description>Trendyol API‘miz, Trendyol ile etkileşime girmenin karmaşıklıklarını kapsüllemeyi ve geliştiricilerin çeşitli eylemleri sorunsuz bir şekilde gerçekleştirmeleri için basitleştirilmiş bir arayüz sunmayı amaçlamaktadır.</description>
 <content:encoded>Trendyol API‘miz, Trendyol ile etkileşime girmenin karmaşıklıklarını kapsüllemeyi ve geliştiricilerin çeşitli eylemleri sorunsuz bir şekilde gerçekleştirmeleri için basitleştirilmiş bir arayüz sunmayı amaçlamaktadır.</content:encoded>
 					
-		<media:content medium="image" url="https://cy4u.dev/assets/images/portfolio/trendyol-unofficial-api.jpg" />
+		<media:content medium="image" url="https://www.cy4u.dev/assets/images/portfolio/trendyol-unofficial-api.jpg" />
 		</item>
 
 
 				<item>
 		<title>Twitch Chat Bot</title>
-		<link>https://cy4u.dev/Twitch-Chat-Bot/tr</link>
+		<link>https://www.cy4u.dev/Twitch-Chat-Bot/tr</link>
 		
 		<dc:creator><![CDATA[cy4udev]]></dc:creator>
 		<pubDate>Fri, 03 May 2024 17:58:31 +0000</pubDate>
@@ -78,11 +78,11 @@
 		<category><![CDATA[Api]]></category>
 		<category><![CDATA[Javascript]]></category>
 		<category><![CDATA[TypeScript]]></category>
-		<guid isPermaLink="false">https://cy4u.dev/Twitch-Chat-Bot/tr</guid>
+		<guid isPermaLink="false">https://www.cy4u.dev/Twitch-Chat-Bot/tr</guid>
 		<description>Karşınızda Twitch Sohbet Bot uygulamamız! Bu bot ile, canlı yayınlar sırasında hesaplarınızdan rastgele yorumlar göndererek izleyicilerinizle sorunsuz bir şekilde etkileşim kurabilirsiniz. Etkileşimi artırın ve izleyicilerinizin zahmetsizce eğlenmesini sağlayın.</description>
 <content:encoded>Karşınızda Twitch Sohbet Bot uygulamamız! Bu bot ile, canlı yayınlar sırasında hesaplarınızdan rastgele yorumlar göndererek izleyicilerinizle sorunsuz bir şekilde etkileşim kurabilirsiniz. Etkileşimi artırın ve izleyicilerinizin zahmetsizce eğlenmesini sağlayın.</content:encoded>
 					
-		<media:content medium="image" url="https://cy4u.dev/assets/images/portfolio/twitch-chat-bot.png" />
+		<media:content medium="image" url="https://www.cy4u.dev/assets/images/portfolio/twitch-chat-bot.png" />
 		</item>
 	
 	</channel>
