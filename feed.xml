@@ -9,17 +9,17 @@
 
 <channel>
 	<title>cy4u.dev</title>
-	<atom:link href="https://cy4u.dev/feed.xml" rel="self" type="application/rss+xml" />
-	<link>https://cy4u.dev/</link>
+	<atom:link href="https://www.cy4u.dev/feed.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.cy4u.dev/</link>
 	<description>We are architects of digital transformation.</description>
 	<lastBuildDate>Fri, 03 May 2024 17:58:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://cy4u.dev</generator>
+	<generator>https://www.cy4u.dev</generator>
 	<item>
 		<title>Facebook Unofficial API</title>
-		<link>https://cy4u.dev/Facebook-Unofficial-API/</link>
+		<link>https://www.cy4u.dev/Facebook-Unofficial-API/</link>
 		
 		<dc:creator><![CDATA[cy4udev]]></dc:creator>
 		<pubDate>Fri, 03 May 2024 17:58:31 +0000</pubDate>
@@ -27,49 +27,49 @@
 		<category><![CDATA[Api]]></category>
 		<category><![CDATA[Javascript]]></category>
 		<category><![CDATA[TypeScript]]></category>
-		<guid isPermaLink="false">https://cy4u.dev/Facebook-Unofficial-API/</guid>
+		<guid isPermaLink="false">https://www.cy4u.dev/Facebook-Unofficial-API/</guid>
 		<description>This library is written in TypeScript for Node.JS and allows you to perform various operations using the Facebook API.</description>
 <content:encoded>This library is written in TypeScript for Node.JS and allows you to perform various operations using the Facebook API.</content:encoded>
 					
-		<media:content medium="image" url="https://cy4u.dev/assets/images/portfolio/facebook-unofficial-api.jpg" />
+		<media:content medium="image" url="https://www.cy4u.dev/assets/images/portfolio/facebook-unofficial-api.jpg" />
 		</item>
 
 		<item>
 		<title>Twitter Unofficial API</title>
-		<link>https://cy4u.dev/Twitter-Unofficial-API/</link>
+		<link>https://www.cy4u.dev/Twitter-Unofficial-API/</link>
 		<dc:creator><![CDATA[cy4udev]]></dc:creator>
 		<pubDate>Fri, 03 May 2024 17:58:31 +0000</pubDate>
 		<category><![CDATA[Social Media]]></category>
 		<category><![CDATA[Api]]></category>
 		<category><![CDATA[Javascript]]></category>
 		<category><![CDATA[TypeScript]]></category>
-		<guid isPermaLink="false">https://cy4u.dev/Twitter-Unofficial-API/</guid>
+		<guid isPermaLink="false">https://www.cy4u.dev/Twitter-Unofficial-API/</guid>
 		<description>The Twitter API allows users to log in quickly and securely with their Twitter account. In just a few simple steps, users can access their accounts.</description>
 <content:encoded>The Twitter API allows users to log in quickly and securely with their Twitter account. In just a few simple steps, users can access their accounts.</content:encoded>
 					
-		<media:content medium="image" url="https://cy4u.dev/assets/images/portfolio/twitter-unofficial-api.jpg" />
+		<media:content medium="image" url="https://www.cy4u.dev/assets/images/portfolio/twitter-unofficial-api.jpg" />
 		</item>
 
 
 		<item>
 		<title>Trendyol Unofficial API</title>
-		<link>https://cy4u.dev/Trendyol-Unofficial-API/</link>
+		<link>https://www.cy4u.dev/Trendyol-Unofficial-API/</link>
 		<dc:creator><![CDATA[cy4udev]]></dc:creator>
 		<pubDate>Fri, 03 May 2024 17:58:31 +0000</pubDate>
 		<category><![CDATA[Social Media]]></category>
 		<category><![CDATA[Api]]></category>
 		<category><![CDATA[Javascript]]></category>
 		<category><![CDATA[TypeScript]]></category>
-		<guid isPermaLink="false">https://cy4u.dev/Trendyol-Unofficial-API/</guid>
+		<guid isPermaLink="false">https://www.cy4u.dev/Trendyol-Unofficial-API/</guid>
 		<description>Our Trendyol API aims to encapsulate the intricacies of interacting with Trendyol, offering a simplified interface for developers to perform various actions seamlessly.</description>
 <content:encoded>Our Trendyol API aims to encapsulate the intricacies of interacting with Trendyol, offering a simplified interface for developers to perform various actions seamlessly.</content:encoded>
 					
-		<media:content medium="image" url="https://cy4u.dev/assets/images/portfolio/trendyol-unofficial-api.jpg" />
+		<media:content medium="image" url="https://www.cy4u.dev/assets/images/portfolio/trendyol-unofficial-api.jpg" />
 		</item>
 		
 		<item>
 		<title>Twitch Chat Bot</title>
-		<link>https://cy4u.dev/Twitch-Chat-Bot/</link>
+		<link>https://www.cy4u.dev/Twitch-Chat-Bot/</link>
 		
 		<dc:creator><![CDATA[cy4udev]]></dc:creator>
 		<pubDate>Fri, 03 May 2024 17:58:31 +0000</pubDate>
@@ -77,11 +77,11 @@
 		<category><![CDATA[Api]]></category>
 		<category><![CDATA[Javascript]]></category>
 		<category><![CDATA[TypeScript]]></category>
-		<guid isPermaLink="false">https://cy4u.dev/Twitch-Chat-Bot/</guid>
+		<guid isPermaLink="false">https://www.cy4u.dev/Twitch-Chat-Bot/</guid>
 		<description>Introducing our Twitch Chat Bot application! With this bot, you can seamlessly engage with your audience by sending random comments from your accounts during live streams. Enhance interactivity and keep your viewers entertained effortlessly.</description>
 <content:encoded>Introducing our Twitch Chat Bot application! With this bot, you can seamlessly engage with your audience by sending random comments from your accounts during live streams. Enhance interactivity and keep your viewers entertained effortlessly.</content:encoded>
 					
-		<media:content medium="image" url="https://cy4u.dev/assets/images/portfolio/twitch-chat-bot.png" />
+		<media:content medium="image" url="https://www.cy4u.dev/assets/images/portfolio/twitch-chat-bot.png" />
 		</item>
 	
 	</channel>
