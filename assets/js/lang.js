@@ -21,7 +21,7 @@ function getCookie(cname) {
     return "";
 }
 
-var langmodal = false;
+var langmodal = true;
 function showlangmodal() {
     if (!langmodal) {
       
