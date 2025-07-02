@@ -54,7 +54,7 @@ $(document).ready(function() {
   var lang = getCookie("lang");
   if (!lang) {
     changelangtoEN();
-    showlangmodal();
+   // showlangmodal();
   }else if(lang == "TR")
   {
     changelangtoTR();
